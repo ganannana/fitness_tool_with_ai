@@ -1,0 +1,6 @@
+pip install langflow python-dotenv
+pip install streamlit astrapy
+
+
+run:
+    streamlit run run.py
